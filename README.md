@@ -4,6 +4,8 @@ This is a Ruby on Rails web application created following the 4-hours long [YouT
 
 - [Devise](https://github.com/heartcombo/devise) gem has been used for authentication.
 
+The demo can be found at [https://rails-friend-list.herokuapp.com](https://rails-friend-list.herokuapp.com)
+
 # How to run
 
 Clone the project.
